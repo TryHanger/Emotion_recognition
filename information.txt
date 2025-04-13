@@ -1,0 +1,8 @@
+
+Собрать pipeline + baseline на TF-IDF + Logistic Regression — 1-2 дня.
+
+Добавить LSTM или BiLSTM — научиться работать с последовательностями.
+
+Перейти на BERT / RoBERTa через HuggingFace Transformers.
+
+Сравнить модели и улучшать лучшую.
